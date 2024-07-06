@@ -18,7 +18,7 @@ These Jupyter Notebooks are being used in my undergraduate thesis to compute exa
 
 * First, you need to install SageMath in your OS ([Check the SageMath guide for especific details](https://doc.sagemath.org/html/en/installation/)). I recommend [this guide](http://cientic.uis.edu.co/grupobioquimicateorica/wp-content/uploads/2022/05/Installation_of_Sage_in_WSL.pdf) for Windows Users.
 * Since a barebones version of GAP comes with SageMath, there's no need to install it on it's own. 
-* However, there's a problem with the Numericalsgps package: It's not pre-installed within SageMath's version of GAP. We can solve this problem by [installing it ourselves (TODO)]()
+* However, there's a problem with the Numericalsgps package: It's not pre-installed within SageMath's version of GAP. We can solve this problem by [installing it ourselves](Numericalsgps-on-SageMath)
 
 ### Usage
 
