@@ -22,12 +22,18 @@ These Jupyter Notebooks are being used in my undergraduate thesis to compute exa
 
 ### Usage
 
-* TODO
-* ONLY DOWNLOAD THE NOTEBOOKS
+* Clone the repository and work!
 
 ## Help
 
 Send an e-mail to **alejandroforero65@gmail.com** and I'll gladly help you. No guarantee though.
+
+## TODO
+
+* Organize notebooks on proper folders by theme.
+* Separate notebooks between Numerical Semigroups and GNSs.
+* Edit notebooks so they use libgap instead of gap() interface.
+* Transition from GAP + SageMath to pure GAP
 
 ## License
 
